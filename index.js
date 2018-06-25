@@ -11,7 +11,7 @@ function logWhisper(string) {
   console.log (string.toLowerCase())
 }
 function sayHiToGrandma(string) {
-  if (typeof string === )
+  if (typeof string.toLowerCase() === string)
 }
 
 describe('sayHiToGrandma(string)', function() {
